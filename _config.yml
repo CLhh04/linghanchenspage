@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Linghan chen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Adelaide"
+  employer         : "Adelaide University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chenlinghan2004@163.com" 
 
   # Academic websites
   academia         : # URL
