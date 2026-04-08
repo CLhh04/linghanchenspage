@@ -37,10 +37,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=3MI23YkAAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            :
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : # URL
+  pubmed           :
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -55,7 +55,7 @@ author:
  
   # Social media
   artstation       : # Username
-  bluesky          : # Username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -332,4 +332,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
- 
